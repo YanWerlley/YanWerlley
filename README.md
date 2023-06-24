@@ -1,5 +1,5 @@
 ### Opa! Eu sou o Yan Werlley 🖥️
-#### Sou Téc. em Informática Web e atualmente sou estudante em Eng. de Software pela UnB.
+#### Sou Téc. em Informática Web e atualmente sou estudante em Engenharia de Software pela UnB.
 
 <br/>[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-werlley-a944821ba/)
 
